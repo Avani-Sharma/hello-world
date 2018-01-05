@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi! 
+My name is Avani and I am participating in a GCI Competition.
